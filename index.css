@@ -1,0 +1,22 @@
+.container{
+    height: 100vh;
+    display: flex;
+    width: 100%;
+}
+.content{
+    width: 70%;
+    background-color: aqua;
+}
+.sidebar{
+    width: 30%;
+    background-color: green;
+
+}
+.red{
+    height: 50vh;
+    background-color: red;
+}
+.blue{
+    height: 50vh;
+    background-color: aquamarine;
+}
